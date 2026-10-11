@@ -192,4 +192,5 @@
 * [FreeToolBox](https://www.freetoolbox.site/)
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
 * [giga.tools](https://giga.tools/)
+* [MiniToolDesk](https://minitooldesk.com/) - MiniToolDesk is a free, privacy-first developer toolbox with 30+ client-side utilities (JSON repair, hash calculator, UUID generator, CSS visual generators). All operations run locally in browser with zero server uploads. Available in 7 languages with open-source core SDK/CLI.
 
